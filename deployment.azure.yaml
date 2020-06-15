@@ -14,7 +14,7 @@ spec:
     spec: 
       containers: 
       - name: angular 
-        image: marriprashanth/angularapp:3
+        image: marri2020/angularapp:3
         ports: 
         - containerPort: 80 
 --- 
